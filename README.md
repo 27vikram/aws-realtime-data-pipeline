@@ -12,6 +12,9 @@ This project demonstrates a real-time data pipeline using AWS services:
 - Scalable storage and querying
 - Interactive visualizations
 
+## QuickSight Dashboard
+![QuickSight Dashboard](dashboards/quicksight_overview.png)
+
 ## How to Use
 1. Clone this repository.
 2. Deploy the Lambda function in the `lambda/` folder.
